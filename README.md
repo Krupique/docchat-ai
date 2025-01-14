@@ -18,8 +18,6 @@ Imagine analyzing hundreds—or even thousands—of PDFs in minutes, unlocking p
 **Impact**:  
 Whether for businesses, researchers, or professionals dealing with vast amounts of data, this tool streamlines workflows, saves time, and enhances decision-making by transforming static PDFs into dynamic sources of knowledge.  
 
-
-
 ### How to install Makefile on Windows
 
 Step 1: To install chocolatey https://chocolatey.org/install
